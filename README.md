@@ -44,4 +44,4 @@ The system is composed of three core components:
 - Available at: https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text
 
 ## Acknowledgements
-This project is built upon and extends the work of [EmoSpeech](https://github.com/deepvk/emospeech). We thank the authors of EmoSpeech for open-sourcing their codebase, which provided a valuable foundation for our experiments.
+This project is inspired by the work of [EmoSpeech](https://github.com/deepvk/emospeech). We thank the authors of EmoSpeech for open-sourcing their codebase, which provided a valuable foundation for our experiments.
